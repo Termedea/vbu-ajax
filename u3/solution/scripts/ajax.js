@@ -16,7 +16,7 @@ $(document).ready(function(){
 			//stäng raden. 
 			htmlString += "</tr>"
 		});
-		console.log(htmlString);
+
 		$("#bands-table").html(htmlString);
 	});		
 
